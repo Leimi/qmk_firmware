@@ -57,3 +57,7 @@
 
 /* VIA related config */
 #define VIA_EEPROM_LAYOUT_OPTIONS_SIZE 2
+
+
+/* manu */
+#define TAPPING_TOGGLE 2
